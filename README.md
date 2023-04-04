@@ -5,7 +5,7 @@ To build a container:
 $ make build
 ```
 
-Following command will  start Docker image in background
+Following command will  start Docker  image in background
 ```
 $ make run
 ```
